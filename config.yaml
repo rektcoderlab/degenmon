@@ -1,0 +1,10 @@
+tokens:
+  - ticker: troll
+    ca: 5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2
+    priceChange: 0.01
+  - ticker: fartcoin
+    ca: 9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump
+    priceChange: 0.01
+  - ticker: bonk
+    ca: DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263
+    priceChange: 0.01
